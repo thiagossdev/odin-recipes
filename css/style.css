@@ -1,0 +1,34 @@
+body {
+  font-family: 'DejaVu Sans', Verdana, sans-serif;
+}
+
+h1 {
+  background-color: lightpink;
+  font-size: 2rem;
+  text-align: center;
+}
+h2 {
+  color: blue;
+}
+
+.recipes {
+  font-weight: 1.2rem;
+  font-weight: bold;
+}
+.recipes a {
+  color: black;
+  background-color: lightgreen;
+  padding: .5rem 1rem;
+}
+li {
+  margin-bottom: 2rem;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+img.img {
+  width: auto;
+  height: 300px;
+}
